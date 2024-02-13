@@ -1,0 +1,1 @@
+﻿SELECT * FROM products WHERE prod_status
